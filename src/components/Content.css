@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,300;8..144,400;8..144,500&display=swap');
+
+.content {
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+    padding: 20px; 
+    padding-top: 10px;
+    margin: 30px;
+    margin-right: 500px;
+    align-content: center;
+    font-family: 'Roboto Flex', sans-serif;
+}

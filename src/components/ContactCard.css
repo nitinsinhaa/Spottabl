@@ -1,0 +1,42 @@
+.card {
+    margin-top: 20px;
+    padding: 0px;
+    border: 5px solid rgb(182, 214, 241);
+    border-radius: 10px;
+    background-color: white;
+    margin-right: 170px;
+    border-style: ridge;
+}
+
+.card-desc {
+    display: flex;
+    align-items: center;
+}
+
+.avatar {
+    padding: 0px 10px 0px 0px;
+    width: 80px;
+}
+
+.card-desc-title h2 {
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+
+.card-desc-title p {
+    margin-top: 0px;
+    padding-top: 0px;
+    font-size: small;
+    text-align: initial
+}
+
+.trash {
+    width: 40px;
+    margin-left: 300px;
+    cursor: pointer;
+    margin-left: auto;
+}
+
+.trash:hover {
+    will-change: transform;
+}

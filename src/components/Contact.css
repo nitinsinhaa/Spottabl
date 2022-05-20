@@ -1,0 +1,26 @@
+.contact {
+    padding: 20px;
+    background-color: white;
+    text-align: left;
+}
+
+.contact input {
+    width: 500px;
+    height: 29px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.contact button {
+    height: 35px;
+    width: 107px;
+    background-color: navy;
+    color: white;
+    border: 0px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin: 10px;
+}
+.contact button:hover {
+    background-color: rgb(108, 62, 155);
+}
